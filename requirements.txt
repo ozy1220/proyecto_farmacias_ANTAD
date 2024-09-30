@@ -1,0 +1,8 @@
+catboost
+pandas
+numpy
+seaborn
+jupyter
+scikit-learn
+geopandas
+pyproj
