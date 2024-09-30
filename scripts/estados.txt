@@ -1,0 +1,32 @@
+Aguascalientes: 1
+Baja California: 4
+Baja California Sur: 3
+Campeche: 1
+Coahuila de Zaragoza: 5
+Colima: 1
+Chiapas: 51
+Chihuahua: 10
+Ciudad de México: 3
+Durango: 3
+Guanajuato: 12
+Guerrero: 8
+Hidalgo: 11
+Jalisco: 13
+México: 22
+Michoacán de Ocampo: 6
+Morelos: 8
+Nayarit: 0
+Nuevo León: 7
+Oaxaca: 3
+Puebla: 5
+Querétaro: 0
+Quintana Roo: 5
+San Luis Potosí: 0
+Sinaloa: 3
+Sonora: 1
+Tabasco: 3
+Tamaulipas: 3
+Tlaxcala: 1
+Veracruz de Ignacio de la Llave: 5
+Yucatán: 2
+Zacatecas: 0
